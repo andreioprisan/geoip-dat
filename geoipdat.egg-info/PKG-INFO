@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: geoipdat
+Version: 0.0.1
+Summary: .dat file for pygeoip
+Home-page: https://github.com/PunchTab/geo-ip
+Author: Arthur Rio
+Author-email: arthur@punchtab.com
+License: BSD licence, see LICENCE
+Description: UNKNOWN
+Platform: UNKNOWN

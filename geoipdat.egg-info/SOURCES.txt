@@ -1,0 +1,7 @@
+setup.py
+geoipdat/__init__.py
+geoipdat.egg-info/PKG-INFO
+geoipdat.egg-info/SOURCES.txt
+geoipdat.egg-info/dependency_links.txt
+geoipdat.egg-info/not-zip-safe
+geoipdat.egg-info/top_level.txt
