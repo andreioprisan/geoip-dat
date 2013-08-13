@@ -3,7 +3,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name='geoip-dat',
+    name='geoipdat',
     version='0.0.1',
     author=u'Arthur Rio',
     author_email='arthur@punchtab.com',
